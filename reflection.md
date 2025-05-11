@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  josh elman
+Sudent Email:  jdelman@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+In this assignment, we wrote two scripts, pandaslib.py and unibrow.py. In pandaslib.py we created 5 methods to get column names of a data from, columns types, number of unique values in categorical variable, file path name, and load the file. In ubibrow.py method, we created a streamlit data browser window where we can upload the dataframe and select variables we want for the analysis. Overall, pandaslib.py methods are easy to implement but streamlit browser api code is bit more complex.
